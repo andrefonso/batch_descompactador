@@ -4,7 +4,7 @@
 
 # Arquivo batch para execução no Windows contendo script para descompactação de arquivos ZIP ou RAR na pasta desejada , utilizando o Winrar, e em seguida exclui os arquivos compactados mantendo somente os descompactados.
 
-| _**Para que o script funcione é ncessário ter o Winrar instalado no computador.**_ 
+| _**Para que o script funcione é necessário ter o Winrar instalado no computador.**_ 
 
 **Para utilização do script siga os passos abaixo:** </br>
 
