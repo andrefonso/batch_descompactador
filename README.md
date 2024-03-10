@@ -13,7 +13,7 @@
 2) Abra o Notepad ou outro editor de texto e cole o conteúdo do script nele;
 3) Ajuste as linhas onde constam os caminhos de "pasta_origem" e "pasta_destino" informando o caminho da pasta onde estarão os arquivos a serem descompactados e onde os mesmos serão descompcatados;
 4) Ajuste também a linha onde é feita a chamada do executável Winrar.exe informando o local onde se encontra o programa
-5) Após as edições necessários salve o arquivo na pasta que desejar e o nomeie por exemplo como "compaq.bat". </br>
+5) Após as edições necessárias salve o arquivo na pasta que desejar e o nomeie por exemplo como "compaq.bat". </br>
 
 # A seguir está a descrição das linhas de comando contidas no script e o que fazem:
 ---
