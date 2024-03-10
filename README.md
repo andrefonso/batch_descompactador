@@ -6,7 +6,8 @@
 
 | _**Para que o script funcione é necessário ter o Winrar instalado no computador.**_ 
 
-**Para utilização do script siga os passos abaixo:** </br>
+# Para utilização do script siga os passos abaixo:
+---
 
 1) Copie o conteúdo do arquivo _descompaq.bat_ localizado na pasta _main_ neste respositório;
 2) Abra o Notepad ou outro editor de texto e cole o conteúdo do script nele;
@@ -14,7 +15,8 @@
 4) Ajuste também a linha onde é feita a chamada do executável Winrar.exe informando o local onde se encontra o programa
 5) Após as edições necessários salve o arquivo na pasta que desejar e o nomeie por exemplo como "compaq.bat". </br>
 
-# A seguir está a descrição das linhas de comando contidas no script e o que fazem: </br>
+# A seguir está a descrição das linhas de comando contidas no script e o que fazem:
+---
 
 _@echo off_: Este comando desativa a exibição dos comandos no prompt de comando, fazendo com que apenas os resultados das operações sejam exibidos.
 
